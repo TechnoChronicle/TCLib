@@ -4,6 +4,7 @@
   "package": "net.technochronicle.tclib.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "RegisterEventAccessor"
   ],
   "client": [
   ],

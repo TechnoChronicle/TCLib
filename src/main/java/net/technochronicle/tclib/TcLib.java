@@ -9,5 +9,6 @@ import org.apache.logging.log4j.Logger;
 public class TcLib {
 
     public static final String MOD_ID = "tclib";
+    public static final String Core_ID = "tccore";
     public static final Logger LOGGER = LogManager.getLogger(MOD_ID);
 }
